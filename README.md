@@ -1,20 +1,4 @@
-# Declaración de Amor - Proyecto del 14 de Febrero 💘
 
-¡Bienvenido/a a mi proyecto de declaración de amor para el 14 de Febrero! En este proyecto, estoy creando una declaración de amor especial para esa persona especial. Este README te dará una visión general del proyecto y cómo puedes contribuir o usarlo.
-
-## Descripción
-
-En este proyecto, estoy creando una declaración de amor única y personalizada para expresar mis sentimientos hacia mi ser querido en el Día de San Valentín. Para lograrlo, estoy utilizando las siguientes tecnologías:
-
-- **React**: Un framework de JavaScript para construir interfaces de usuario interactivas y dinámicas.
-- **Vite**: Un bundler (empaquetador) rápido para aplicaciones web modernas, con soporte nativo para React y otras herramientas.
-- **Tailwind CSS**: Un framework de diseño de componentes CSS utility-first que permite construir rápidamente interfaces de usuario personalizadas y receptivas.
-
-## Funcionalidades
-
-- **Personalización**: El proyecto permite personalizar la declaración de amor con nombres, mensajes y elementos especiales.
-- **Interactividad**: [Describir cualquier interactividad o características únicas del proyecto].
-- **Diseño Atractivo**: El proyecto está diseñado para ser visualmente atractivo y emocionalmente impactante.
 
 ## Instalación
 
@@ -23,7 +7,7 @@ Para comenzar con el proyecto, sigue estos pasos:
 1. Clona el repositorio a tu máquina local usando el siguiente comando:
 
 ```bash
-git clone https:github.com/MartL7/February-Declaration.git
+git clone https:github.com/cristiansiuu/February-Declaration.git
 ```
 
 2. Instala las dependencias que usa el Proyecto:
